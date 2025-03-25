@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/admin/tools/OpenGL/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/OpenGL.dir/main.cpp.o -c /Users/admin/tools/OpenGL/main.cpp",
+  "file": "/Users/admin/tools/OpenGL/main.cpp",
+  "output": "CMakeFiles/OpenGL.dir/main.cpp.o"
+}
+]
